@@ -1,5 +1,5 @@
-# Animal_Ecosystem_Simulation
-An Australian forest ecosystem with trees and water bodies habituated by Echidnas, Koalas and Dingoes, based on different stats and interactions.
+# Animal world
+
 
 The goal of this game is to maximize the generation of wildlife and the interaction between
 the animals. In the game three different animals have been used: Echidna, Koala, and Dingo
